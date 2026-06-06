@@ -31,8 +31,8 @@ FindMiss makes it visible. No judgment — just missed items and hidden assumpti
 
 告诉你的 AI agent / Tell your AI agent:
 
-> 帮我装上 github.com/290963249/FindMiss 的 FindMiss skill
-> Install the FindMiss skill from github.com/290963249/FindMiss
+> 帮我装上 github.com/trustchain-ai/FindMiss 的 FindMiss skill
+> Install the FindMiss skill from github.com/trustchain-ai/FindMiss
 
 或手动复制 `skill/FindMiss.skill.md` 到 skills 目录。
 Or copy `skill/FindMiss.skill.md` into your skills directory.
@@ -126,10 +126,10 @@ FindMiss   事后    结果漏了什么        /fm  ← 你在这里
 
 ## Contribute
 
-FindMiss 抓到了真遗漏，或误报了？→ [Discussions](https://github.com/290963249/FindMiss/discussions)
+FindMiss 抓到了真遗漏，或误报了？→ [Discussions](https://github.com/trustchain-ai/FindMiss/discussions)
 
 改规则或加案例 → `skill/FindMiss.skill.md` → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-MIT · [GitHub](https://github.com/290963249/FindMiss) · v0.1
+MIT · [GitHub](https://github.com/trustchain-ai/FindMiss) · v0.1
