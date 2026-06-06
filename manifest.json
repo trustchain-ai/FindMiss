@@ -12,7 +12,7 @@
   ],
   "entrypoint": "skill/FindMiss.skill.md",
   "license": "MIT",
-  "homepage": "https://github.com/290963249/FindMiss",
+  "homepage": "https://github.com/trustchain-ai/FindMiss",
   "redlines": [
     "只找遗漏和隐藏假设，不判对错",
     "每条遗漏必须追溯到原始要求原文",
