@@ -1,0 +1,23 @@
+{
+  "slug": "findmiss",
+  "version": "0.1.0",
+  "displayName": "FindMiss",
+  "description": "Agent 交付结果后，逐条比对原始要求，找出遗漏的需求和未声明的隐藏假设——让你看到结果里藏着什么。",
+  "triggerPhrases": [
+    "/findmiss",
+    "/fm",
+    "查遗漏",
+    "漏了什么",
+    "miss 一下"
+  ],
+  "entrypoint": "skill/FindMiss.skill.md",
+  "license": "MIT",
+  "homepage": "https://github.com/290963249/FindMiss",
+  "redlines": [
+    "只找遗漏和隐藏假设，不判对错",
+    "每条遗漏必须追溯到原始要求原文",
+    "隐藏假设必须指出 Agent 替你做了什么决定",
+    "不替用户决定结果好不好，只照出看不到的"
+  ],
+  "corePrinciple": "找遗漏 · 暴假设 · 对原文 · 不判对错 (v0.1)"
+}
