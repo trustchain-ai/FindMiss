@@ -5,7 +5,7 @@ license: MIT
 metadata:
   version: "0.1.0"
   package: findmiss
-  source: https://github.com/290963249/FindMiss
+  source: https://github.com/trustchain-ai/FindMiss
 ---
 
 # FindMiss · v0.1 · 找遗漏 · 暴假设 · 对原文 · 不判对错
