@@ -6,7 +6,7 @@ FindMiss 抓到了真遗漏，或误报了？欢迎贡献。
 
 ### 报告误判或漏判
 
-在 [Discussions](https://github.com/290963249/FindMiss/discussions) 中提供：
+在 [Discussions](https://github.com/trustchain-ai/FindMiss/discussions) 中提供：
 
 1. 用户的原始要求（prompt）
 2. Agent 的交付结果
